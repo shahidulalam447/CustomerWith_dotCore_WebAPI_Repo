@@ -1,0 +1,7 @@
+D:\az\R53\M_07_Asp.NetCore\Class_029\CIMS.WebApi\CIMS.Models\obj\Debug\net6.0\CIMS.Models.csproj.AssemblyReference.cache
+D:\az\R53\M_07_Asp.NetCore\Class_029\CIMS.WebApi\CIMS.Models\obj\Debug\net6.0\CIMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\az\R53\M_07_Asp.NetCore\Class_029\CIMS.WebApi\CIMS.Models\obj\Debug\net6.0\CIMS.Models.AssemblyInfoInputs.cache
+D:\az\R53\M_07_Asp.NetCore\Class_029\CIMS.WebApi\CIMS.Models\obj\Debug\net6.0\CIMS.Models.AssemblyInfo.cs
+D:\az\R53\M_07_Asp.NetCore\Class_029\CIMS.WebApi\CIMS.Models\obj\Debug\net6.0\CIMS.Models.csproj.CoreCompileInputs.cache
+D:\az\R53\M_07_Asp.NetCore\Class_029\CIMS.WebApi\CIMS.Models\obj\Debug\net6.0\CIMS.Models.MvcApplicationPartsAssemblyInfo.cs
+D:\az\R53\M_07_Asp.NetCore\Class_029\CIMS.WebApi\CIMS.Models\obj\Debug\net6.0\CIMS.Models.MvcApplicationPartsAssemblyInfo.cache
